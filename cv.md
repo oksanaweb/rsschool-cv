@@ -59,11 +59,11 @@ lovefunc()
 
 #### Internship in Beauty market startup
 
-Develop high-quality and responsive user interfaces using React.js, Redux Toolkit, Typescript. Implement UI designs provided by the design team, ensuring pixel-perfect implementation and adherence to brand guidelines.
+- Develop high-quality and responsive user interfaces using React.js, Redux Toolkit, Typescript. Implement UI designs provided by the design team, ensuring pixel-perfect implementation and adherence to brand guidelines.
 
-Use styled-components to create reusable and visually consistent components. Write CSS-in-JS code to apply styles and themes to components, maintaining a clean and organized styling codebase.
+- Use styled-components to create reusable and visually consistent components. Write CSS-in-JS code to apply styles and themes to components, maintaining a clean and organized styling codebase.
 
-Use Git for version control, collaboration (Asana) with the development team to manage code repositories, branches and pull requests.
+- Use Git for version control, collaboration (Asana) with the development team to manage code repositories, branches and pull requests.
 
 ---
 
@@ -71,7 +71,7 @@ Use Git for version control, collaboration (Asana) with the development team to 
 
 august 2022 - may 2023
 
-programming center TeachMeSkills
+**programming center TeachMeSkills**
 
 Junior Frontend Developer
 
@@ -83,7 +83,7 @@ Tools:React, React Router, Styled-components, Redux Toolkit,React Hook Form, Axi
 
 september 2009 - july 2014
 
-Belarussian State University
+**Belarusian State University**
 
 Bachelor of Journalism
 
